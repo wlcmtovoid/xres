@@ -1,0 +1,368 @@
+: 1734762202:0;clear
+: 1734762319:0;sudo pacman -S fzf zoxide
+: 1734762357:0;startx
+: 1734762554:0;sudo su
+: 1734763050:0;fastfetch
+: 1734763073:0;nvim
+: 1734763128:0;fastfetch
+: 1734763139:0;qq
+: 1734764803:0;sudo pacman -S mousepad
+: 1734764839:0;sudo su
+: 1734765425:0;startx
+: 1734765438:0;cd suckless/dwm
+: 1734765444:0;sudo make clean install
+: 1734765452:0;startx
+: 1734765490:0;sudo su
+: 1734765640:0;yay cava
+: 1734765682:0;sudo pacman -S --needed base-devel\
+git clone https://aur.archlinux.org/paru.git\
+cd paru\
+makepkg -si
+: 1734767457:0;sudo pacman -S --needed base-devel\
+git clone https://aur.archlinux.org/paru.gcd paru\
+makepkg -si
+: 1734767491:0;cd paru
+: 1734767492:0;ls
+: 1734767514:0;makepkg -si -y
+: 1734767518:0;makepkg -si 
+: 1734768227:0;sudo su
+: 1734768277:0;sudo pacman -S gpick
+: 1734768640:0;startx
+: 1734768874:0;sudo su
+: 1734768972:0;startx
+: 1734769022:0;sudo su
+: 1734769078:0;startx
+: 1734769085:0;sudo su
+: 1734769121:0;startx
+: 1734769129:0;sudo su
+: 1734769147:0;startx
+: 1734769194:0;sudo su
+: 1734769476:0;startx
+: 1734769514:0;fastfetch
+: 1734769817:0;paru -S dwmblocks-distrotube
+: 1734770044:0;sudo pacman -S XF86keysym
+: 1734770053:0;sudo pacman -S xf86keysym
+: 1734778836:0;watch wpctl get-volume @DEFAULT_AUDIO_SINK@
+: 1734778890:0;sudo us
+: 1734778898:0;sudo su
+: 1734779179:0;watch wpctl get-volume @DEFAULT_AUDIO_SINK@
+: 1734779190:0;startx
+: 1734779193:0;watch wpctl get-volume @DEFAULT_AUDIO_SINK@
+: 1734779293:0;sudo su
+: 1734779390:0;startx
+: 1734779395:0;watch wpctl get-volume @DEFAULT_AUDIO_SINK@
+: 1734791100:0;sudo pacman -S ttf-jetbrainsmono-nerd-bold
+: 1734791111:0;sudo pacman -S ttf-jetbrains-mono-nerd-bold
+: 1734791260:0;sudo su
+: 1734791422:0;cd suckless
+: 1734791431:0;cd swm
+: 1734791444:0;sudo make clean install
+: 1734791458:0;cd dwm
+: 1734791461:0;sudo make clean install
+: 1734791467:0;startx
+: 1734791551:0;cd suckless
+: 1734791557:0;git clone https://github.com/LukeSmithxyz/dwmblocks.git
+: 1734791572:0;cd dwmblocks
+: 1734791575:0;sudo make clean install
+: 1734791580:0;startx
+: 1734791584:0;dwmblocks
+: 1734791654:0;cd suckless/slstatus
+: 1734791657:0;sudo make clean install
+: 1734791664:0;slstatus
+: 1734791678:0;nvim .xinitrc
+: 1734791718:0;startx
+: 1734791965:0;vim .xinitc
+: 1734791977:0;vim .xinitrc
+: 1734792023:0;rm .xinitc
+: 1734792025:0;clear
+: 1734792031:0;startx
+: 1734792059:0;sudo pacman -Syu
+: 1734795538:0;nvim .xinitrc
+: 1734795566:0;startx
+: 1734795612:0;fastfetch
+: 1734795649:0;nvim .xinitrc
+: 1734795716:0;startx
+: 1734795806:0;sudo su
+: 1734795955:0;startx
+: 1734795979:0;sudo su
+: 1734796056:0;startx
+: 1734796496:0;sudo su
+: 1734796689:0;startx
+: 1734796745:0;sudo pacman -S nwg-look
+: 1734796938:0;paru Gruvbox Plus Icon Pack
+: 1734796968:0;paru gruvbox-plus-icon-pack
+: 1734796972:0;paru gruvbox-plus-icon
+: 1734797103:0;cd Downloads/
+: 1734797105:0;ls
+: 1734797170:0;cp /home/i/Downloads/Gruvbox-Dark-B-MB/Gruvbox-Dark -r /usr/share/themes
+: 1734797177:0;sudo su
+: 1734797480:0;mkdir /usr/share/cursors/bibata 
+: 1734797483:0;sudo su
+: 1734797769:0;startx
+: 1734797782:0;paru bibata
+: 1734797839:0;sudo su
+: 1734797871:0;paru bibata
+: 1734797890:0;sudo su
+: 1734798095:0;startx
+: 1734798158:0;sudo su
+: 1734798440:0;nvim .xinitrc
+: 1734798453:0;mousepad .xinitrc
+: 1734798519:0;startx
+: 1734798546:0;mousepad .xinitrc
+: 1734798556:0;startx
+: 1734798907:0;mousepad .xinitrc
+: 1734798932:0;startx
+: 1734799007:0;mousepad .Xresources
+: 1734799020:0;startx
+: 1734799071:0;mousepad .Xresources
+: 1734799337:0;startx
+: 1734799386:0;sudo su
+: 1734799678:0;fastfetch
+: 1734799771:0;sudo pacman -S gimp
+: 1734800192:0;sudo pacman -S flameshot
+: 1734800290:0;flameshot
+: 1734800324:0;sudo pacman -R flameshot
+: 1734800384:0;sudo pacman -S scrot
+: 1734800648:0;sudo su
+: 1734800662:0;unimatrix
+: 1734800695:0;fastfetch
+: 1734818836:0;startx
+: 1734870063:0;sudo su
+: 1734870352:0;startx
+: 1734870375:0;sudo su
+: 1734870490:0;startx
+: 1734870806:0;sudo pacman -R scrot
+: 1734870825:0;nvim
+: 1734870969:0;cd Downloads/
+: 1734870986:0;mkdir nvim-config-go
+: 1734870996:0;git clone https://github.com/dreamsofcode-io/neovim-go-config.git
+: 1734871351:0;nvim
+: 1734883788:0;sudo su
+: 1734883837:0;startx
+: 1734883928:0;sudo su
+: 1734884008:0;startx
+: 1734884021:0;sudo su
+: 1734884100:0;startx
+: 1734884111:0;sudo su
+: 1734884152:0;startx
+: 1734884260:0;fzf
+: 1734884410:0;sudo pacman -Syu
+: 1734884505:0;sudo pacman -S exa
+: 1734884510:0;sudo pacman -S eza
+: 1734884817:0;fastfetch
+: 1734885862:0;nimatrix
+: 1734885866:0;unimatrix
+: 1734885913:0;sudo pacman -S eza
+: 1734885936:0;nvim .zshrc
+: 1734886021:0;cd suckless/dwm
+: 1734886022:0;;s
+: 1734886024:0;ls
+: 1734886026:0;eza
+: 1734886043:0;sudo make clean install
+: 1734886050:0;startx
+: 1734886073:0;nvim suckless
+: 1734886084:0;nvim suckless/st
+: 1734886089:0;nvim suckless/st/config.h
+: 1734886135:0;sudo su
+: 1734886212:0;nvim suckless/st/config.h
+: 1734886295:0;fastfetch
+: 1734886353:0;startx
+: 1734886373:0;fastfetch
+: 1734921425:0;fastfetch --logo
+: 1734921431:0;fastfetch --logo -l
+: 1734921436:0;fastfetch -l
+: 1734921487:0;fastfetch --logo .-l
+: 1734921491:0;fastfetch --logo . -l
+: 1734921498:0;fastfetch --logo , -l
+: 1734921503:0;fastfetch --logo,-l
+: 1734922106:0;nvim .config
+: 1734922137:0;nvim .config/fastfetch/config.json
+: 1734922202:0;fastfetch
+: 1734922510:0;nvim .zshrc
+: 1734922663:0;mkdir Projects
+: 1734922666:0;nvim .zshrc
+: 1734922727:0;pp
+: 1734922736:0;nvim .zshrc
+: 1734922867:0;pp
+: 1734922871:0;gc https://github.com/LukeSmithxyz/dwmblocks.git
+: 1734923020:0;cd suckless/dwmblocks
+: 1734923023:0;ls
+: 1734923028:0;iii
+: 1734923042:0;dwmblocks
+: 1734923102:0;wpctl --help
+: 1734923133:0;wpctl --help  set-volume ID VOL[%][+100]\
+
+: 1734923140:0;cst
+: 1734923148:0;nvim config.h
+: 1734923160:0;cst
+: 1734923161:0;123
+: 1734923167:0;sudo su
+: 1734923299:0;startx
+: 1734923346:0;sudo su
+: 1734923426:0;startx
+: 1734925395:0;nvim 
+: 1734925744:0;mousepad .zshrc
+: 1734925764:0;ls
+: 1734925766:0;eza
+: 1734925928:0;mousepad Downloads/zshrc
+: 1734926237:0;ls
+: 1734926334:0;cd suckless/dwm
+: 1734926335:0;ls
+: 1734927087:0;c
+: 1734927101:0;startx
+: 1734927157:0;sudo pacman -S pavau-audion
+: 1734940465:0;sudo su
+: 1734941073:0;startx
+: 1734941931:0;sudo su
+: 1734942374:0;sudo pacman -S flameshot-gui
+: 1734942378:0;sudo pacman -S flameshot
+: 1734942397:0;flameshot gui
+: 1734942667:0;pactl
+: 1734942671:0;wpctl
+: 1734943157:0;wpctl status
+: 1734943417:0;startx
+: 1734943622:0;sudo su
+: 1734943659:0;startx
+: 1734956259:0;cd suckless/dwm
+: 1734956268:0;cd suckless/dmenu
+: 1734956319:0;patch -i patches/dmenu-border-4.9.diff
+: 1734956348:0;cd suckless/dmenu
+: 1734956353:0;iii
+: 1734956396:0;cd suckless/dwm
+: 1734956405:0;iii
+: 1734956412:0;c
+: 1734956421:0;startx
+: 1734956828:0;sudo pacman -S btop
+: 1734956839:0;fzf
+: 1734956845:0;btop
+: 1734957124:0;sudo su
+: 1734957194:0;startx
+: 1734957209:0;nvim
+: 1734957244:0;sudo pacman -S tmux
+: 1734957261:0;sudo pacman -Syu
+: 1734957330:0;sudo su
+: 1734957372:0;startx
+: 1734957438:0;sudo su
+: 1734957466:0;sudo pacman -S tty-clock
+: 1734957478:0;sudo pacman -S cava
+: 1734957512:0;sudo pacman -S cli-clock
+: 1734957530:0;paru cava 
+: 1734957655:0;mousepad .zshrc
+: 1734957770:0;ls
+: 1734957776:0;cd Downloads
+: 1734957777:0;ls
+: 1734957827:0;sudo pacman -S ranger
+: 1734957884:0;ranger
+: 1734957899:0;git clone https://github.com/alexanderjeurissen/ranger_devicons ~/.config/ranger/plugins/ranger_devicons
+: 1734957905:0;ranger
+: 1734957978:0;echo "default_linemode devicons" >> $HOME/.config/ranger/rc.conf
+: 1734957981:0;ranger
+: 1734958261:0;sudo pacman -S mirage
+: 1734958304:0;sudo pacman -S sxiv
+: 1734958390:0;sudo pacman -R sxiv
+: 1734958645:0;ranger
+: 1734958683:0;nvim 
+: 1734958712:0;paru -S cava
+: 1734958761:0;cava
+: 1734959092:0;fastfetch
+: 1734967639:0;cava
+: 1734967802:0;sudo 
+: 1735011282:0;startx
+: 1735012748:0;nvim /home/i/.config/qutebrowser/config.py
+: 1735013187:0;nvim suckless/st/config.h
+: 1735014236:0;startx
+: 1735024991:0;sudo pacman -Syu
+: 1735025003:0;sudo pacman -Syu -y
+: 1735026596:0;mousepad suckless/st/config.h
+: 1735029871:0;sudo pacman -S cyjo
+: 1735029959:0;sudo pacman -S okular
+: 1735030012:0;sudo pacman -R okular
+: 1735030022:0;sudo pacman -Syu
+: 1735030115:0;sudo pacman -S evince
+: 1735043750:0;cd suckless
+: 1735043781:0;gc https://git.suckless.org/dmenu
+: 1735043791:0;cd dwm
+: 1735043798:0;iii
+: 1735043811:0;startx
+: 1735043830:0;cd dwm
+: 1735043841:0;iii
+: 1735043846:0;startx
+: 1735043865:0;cd suckless
+: 1735043869:0;ls
+: 1735043874:0;cd dmenu
+: 1735043875:0;ls
+: 1735043879:0;iii
+: 1735044043:0;cd suckless/dmenu
+: 1735044044:0;ls
+: 1735044084:0;patch -i patches/dmenu-center-4.8.diff
+: 1735044102:0;iii
+: 1735044206:0;patch -i patches/dmenu-border-4.9.diff
+: 1735044212:0;iii
+: 1735044317:0;cd suckless/dmenu
+: 1735044321:0;iii
+: 1735044447:0;cd suckless/dmenu
+: 1735044453:0;ls
+: 1735044470:0;patch -i patches/dmenu-border-20230512-0fe460d.diff
+: 1735044479:0;sudo su
+: 1735044747:0;cd suckless/dmenu
+: 1735044757:0;patch -i patches/gruv.diff
+: 1735044805:0;sudo su
+: 1735044827:0;clear
+: 1735044833:0;startx
+: 1735044855:0;fzf
+: 1735044949:0;cd suckless
+: 1735044959:0;gc https://github.com/LukeSmithxyz/dwmblocks.git
+: 1735044964:0;ls
+: 1735044969:0;cd dwmblocks
+: 1735044971:0;ls
+: 1735044976:0;sudo make clean install
+: 1735044989:0;cd .. .. ..
+: 1735044997:0;cd .. cd .. cd ..
+: 1735045001:0;cd ..
+: 1735045002:0;.
+: 1735045007:0;cd ..
+: 1735045011:0;cc
+: 1735045012:0;c
+: 1735045021:0;mousepad .xinitrc
+: 1735045044:0;startx
+: 1735045049:0;dwmblocks
+: 1735045210:0;sudo pacman -S wttrin
+: 1735045215:0;sudo pacman -S wttrn
+: 1735045382:0;nvim .zshrc
+: 1735045395:0;pp
+: 1735045426:0;gc https://git.LukeSmithxyz/voidrice/tree/master/.local/bin/statusbar
+: 1735045481:0;pp
+: 1735045485:0;gc https://github.com/LukeSmithxyz/voidrice/tree/master/.local/bin/statusbar
+: 1735045837:0;cd suckless
+: 1735045841:0;gc https://gitlab.com/dwt1/dwmblocks-distrotube.git
+: 1735045914:0;cd suckless/dwmblocks-distrotube
+: 1735045917:0;iii
+: 1735046029:0;paru libxft-bgra-git
+: 1735046043:0;paru libxft-bgra
+: 1735046047:0;paru libxft
+: 1735046129:0;cd suckless/dwmblocks-distrotube
+: 1735046133:0;iii
+: 1735046151:0;dwmblocks
+: 1735046676:0;sudo pacman -S gparted
+: 1735046760:0;sudo pacman -R gparted
+: 1735046888:0;sudo pacman -R polkit
+: 1735046908:0;sudo pacman -S polkit
+: 1735046920:0;sudo pacman -Syu
+                     : 1735047131:0;startx
+: 1735047302:0;c
+: 1735047311:0;sudo pacman -S lxpolkit
+: 1735047333:0;groups
+: 1735047521:0;mount /dev/sdb
+: 1735047537:0;sudo pacman -S fstab
+: 1735047736:0;sudo pacman -S nfs-common
+: 1735047781:0;c
+: 1735047799:0;sudo pacman -S ntfs-3g
+: 1735047907:0;startx
+: 1735047944:0;lsblk -f
+: 1735047977:0;ls /mnt
+: 1735048048:0;sudo mkdir video-audio
+: 1735048056:0;ls
+: 1735048088:0;sudo mousepad /etc/fstab
+: 1735048116:0;clear
+: 1735048127:0;lsblk -f
+: 1735048344:0;sudo umount -a

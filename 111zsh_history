@@ -1,0 +1,6 @@
+
+: 1735048452:0;sudo mount -a
+: 1735048467:0;systemctl daemon-reload
+: 1735048474:0;sudo mount -a
+: 1735048938:0;c
+: 1735048942:0;startx
